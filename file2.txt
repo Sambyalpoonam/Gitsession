@@ -1,2 +1,2 @@
 this is a second file.
-kill the rat
+kill the rat.this should kill the bug.
